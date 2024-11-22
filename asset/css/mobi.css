@@ -1,0 +1,71 @@
+@media only screen and (max-width: 600px) {
+  .header {
+    display: none;
+  }
+
+  .slider-content {
+    margin-left: 0px;
+    padding: 27px;
+    margin-top: -300px;
+    position: absolute;
+    font-size: 16px;
+    color: #fff;
+  }
+
+  .slider-header {
+    font-size: 25;
+  }
+  .img-sli {
+    height: 320px;
+  }
+
+  .up-size {
+    margin-top: 50px !important;
+    margin-left: 40px;
+    width: 210px !important;
+  }
+
+  .update-img {
+    width: 210px;
+    height: 140px;
+  }
+
+  .movie-img {
+    width: 210px;
+    height: 300px;
+  }
+
+  .mo-size {
+    margin-left: 40px;
+    width: 210px !important;
+  }
+
+  .com-size {
+    margin-left: 40px;
+
+    width: 210px !important;
+  }
+
+  .coming-img {
+    width: 210px;
+    height: 207px;
+  }
+
+  .review {
+    display: none !important;
+  }
+
+  .menu li {
+    margin: 20px -1px;
+    display: inline-block;
+  }
+
+  .infor {
+    margin-left: 10px;
+    padding: 10px;
+  }
+
+  .char-content {
+    margin: 10px;
+  }
+}

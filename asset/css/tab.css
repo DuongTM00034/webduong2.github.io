@@ -1,0 +1,65 @@
+@media only screen and (max-width: 900px) and (min-width: 601px) {
+  .update-img {
+    width: 210px;
+    height: 140px;
+  }
+
+  .up-size {
+    width: 210px !important;
+    height: 140px !important;
+  }
+
+  .movie-img {
+    width: 210px;
+    height: 300px;
+  }
+
+  .mo-size {
+    width: 210px !important;
+    height: 316px !important;
+  }
+
+  .com-size {
+    width: 145px !important;
+    height: 207px !important;
+  }
+
+  .list-program {
+    /* width: 190px !important;
+    height: 100px !important; */
+    background-color: #d9d9d9;
+    text-align: center;
+    line-height: 4;
+  }
+
+  .menu li a {
+    display: block;
+  }
+
+  ul {
+    list-style-type: none;
+    text-decoration: none;
+  }
+
+  .sidbar-img {
+    width: 150px;
+    height: 220px;
+  }
+
+  .char-content {
+    width: 100%;
+  }
+
+  .char-img-1 {
+    height: auto;
+    width: 100%;
+    margin-left: 10px;
+  }
+
+  .icon-social {
+    text-align: center;
+  }
+  .film-list {
+    margin-left: 63px;
+  }
+}
